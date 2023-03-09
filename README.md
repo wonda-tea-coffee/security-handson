@@ -1,15 +1,7 @@
 # サーバ起動
 
 ```sh
-docker run --rm -it -v $(pwd):/work --workdir /work -p 3000:3000 node server.js
-```
-
-# サーバを落とす
-
-Ctrl+Cで落ちないの何故なのだ
-
-```sh
-docker kill $(docker ps -q)
+node server.js
 ```
 
 # WSLでのハマりどころ
