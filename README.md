@@ -30,3 +30,6 @@ Windows側のhostsに下記を追加
 - P.73
     - 誤：Cross-Origin Recourse Sharing
     - 正：Cross-Origin Resourse Sharing
+- P.132 リスト5-30
+    - 誤：http-equv
+    - 正：http-equiv
