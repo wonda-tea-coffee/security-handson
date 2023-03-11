@@ -4,5 +4,17 @@
     </head>
     <body>
         <h1>Top Page</h1>
+        <iframe
+            id="iframe"
+            onload="load()"
+            src="https://example.com"
+        ></iframe>
+        <script>
+            function load() {
+                const iframe = document.querySelector("#iframe");
+                const iframeDoc = iframe.contentWindow.document;
+                console.log(iframeDoc);
+            }
+        </script>
     </body>
 </html>

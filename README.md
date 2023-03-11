@@ -25,3 +25,8 @@ Windows側のhostsに下記を追加
 - https://github.com/microsoft/WSL/issues/6426
 - https://qiita.com/tiibun/items/5719869552ee5b713d83
   - hostsを管理者権限でシュッと開く方法
+
+## 誤植
+- P.73
+    - 誤：Cross-Origin Recourse Sharing
+    - 正：Cross-Origin Resourse Sharing
