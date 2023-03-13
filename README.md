@@ -27,8 +27,8 @@ Windows側のhostsに下記を追加
   - hostsを管理者権限でシュッと開く方法
 
 ## メモ
-APPENDIXのHSTSのブラウザ内部リダイレクトを確認できなかった（Chrome）。
-[ここ](chrome://net-internals/#hsts)から手でsite.exampleを入れたら確認できたがなぜ...。
+APPENDIXのHSTSのブラウザ内部リダイレクトを確認できなかった（Chrome）。  
+chrome://net-internals/#hsts から手でsite.exampleを入れたら確認できたがなぜ...。
 
 ## 誤植
 - P.73
